@@ -19,6 +19,6 @@ View README to linux version or readme.txt (on russian) to windows version.
 
 ![Linux](https://raw.githubusercontent.com/tolik-punkoff/null-sender/master/screnshoots/linux.jpg)
 
-### Program creation ritual
+## Program creation ritual
 
 https://youtu.be/lmtum_hWiQ4
