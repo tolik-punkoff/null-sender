@@ -15,6 +15,6 @@ View README to linux version or readme.txt (on russian) to windows version.
 
 ![Scr04](https://raw.githubusercontent.com/tolik-punkoff/null-sender/master/screnshoots/20150413215449.png)
 
-###Linux
+### Linux
 
 ![Linux](https://raw.githubusercontent.com/tolik-punkoff/null-sender/master/screnshoots/linux.jpg)
