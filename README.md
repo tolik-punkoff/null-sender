@@ -3,9 +3,9 @@ Chaomagic ritual software. It send selected object to null
 
 View README to linux version or readme.txt (on russian) to windows version.
 
-##Screenshots
+## Screenshots
 
-###Windows
+### Windows
 
 ![Scr01](https://raw.githubusercontent.com/tolik-punkoff/null-sender/master/screnshoots/20150413214144.png)
 
